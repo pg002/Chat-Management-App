@@ -18,3 +18,10 @@ Technologies Used
     Mongoose: ODM for MongoDB, providing schema validation and query building.
     EJS: Templating engine for dynamic web pages.
     HTML/CSS: For user interface styling and layout.
+
+Future Enhancements
+
+    Add user authentication and role-based access control.
+    Implement real-time chat using Socket.IO.
+    Add a search and filter functionality for chats.
+    Deploy the app on cloud platforms like Heroku or Vercel.
