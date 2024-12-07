@@ -1,0 +1,15 @@
+body{
+    margin-left:20px;
+}
+.chat {
+    background-color: aliceblue; /* Corrected from "alice-blue" to "aliceblue" */
+    padding: 20px;               /* Optional: Add padding for better appearance */
+    margin: 10px 0;              /* Optional: Add margin for spacing */
+    border: 1px solid #ccc; 
+    display:inline-block;     /* Optional: Add a border for better visibility */
+}
+
+.msg {
+   background-color: dodgerblue;
+   color:white;        /* Optional: Style the message */
+}
